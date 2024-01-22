@@ -1,4 +1,6 @@
 ### Hi there 👋
+- I am currently interested in Go, Javascript, & Lua.
+- I currently work for 910 Media Group
 
 <!--
 **elkcityhazard/elkcityhazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
